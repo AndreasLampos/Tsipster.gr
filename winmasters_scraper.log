@@ -40,3 +40,27 @@ Matches by tournament:
 2025-04-06 14:46:14,397 - INFO - - Europa League: 4 matches
 2025-04-06 14:46:14,397 - INFO - 
 Processing complete!
+2025-05-10 20:08:15,264 - INFO - Processing tournament: Europa League
+2025-05-10 20:08:15,264 - INFO - ====== WebDriver manager ======
+2025-05-10 20:08:17,089 - INFO - Get LATEST chromedriver version for google-chrome
+2025-05-10 20:08:17,270 - INFO - Get LATEST chromedriver version for google-chrome
+2025-05-10 20:08:17,476 - INFO - Driver [C:\Users\Demos\.wdm\drivers\chromedriver\win64\135.0.7049.114\chromedriver-win32/chromedriver.exe] found in cache
+2025-05-10 20:08:36,694 - INFO - ====== WebDriver manager ======
+2025-05-10 20:08:38,228 - INFO - Get LATEST chromedriver version for google-chrome
+2025-05-10 20:08:38,381 - INFO - Get LATEST chromedriver version for google-chrome
+2025-05-10 20:08:38,533 - INFO - Driver [C:\Users\Demos\.wdm\drivers\chromedriver\win64\135.0.7049.114\chromedriver-win32/chromedriver.exe] found in cache
+2025-05-10 20:08:40,309 - INFO - Fetching https://www.winmasters.gr/el/sports/i/event/1/%CF%80%CE%BF%CE%B4%CF%8C%CF%83%CF%86%CE%B1%CE%B9%CF%81...
+2025-05-10 20:08:50,980 - INFO - Successfully retrieved the initial HTML page for https://www.winmasters.gr/el/sports/i/event/1/%CF%80%CE%BF%CE%B4%CF%8C%CF%83%CF%86%CE%B1%CE%B9%CF%81...
+2025-05-10 20:08:51,983 - INFO - Found match: Τότεναμ vs Μάντσεστερ Γιουνάιτεντ
+2025-05-10 20:08:52,189 - INFO - Time to fetch https://www.winmasters.gr/el/sports/i/event/1/%CF%80%CE%BF%CE%B4%CF%8C%CF%83%CF%86%CE%B1%CE%B9%CF%81...: 11.88 seconds
+2025-05-10 20:08:52,205 - INFO - Parsing data for Τότεναμ vs Μάντσεστερ Γιουνάιτεντ
+2025-05-10 20:08:57,271 - INFO - Time to parse Τότεναμ vs Μάντσεστερ Γιουνάιτεντ: 5.07 seconds
+2025-05-10 20:09:00,392 - INFO - Processed 1 matches in Europa League.
+2025-05-10 20:09:00,407 - INFO - Data saved to odds/winmasters/europa_league/europa_league_odds_winmasters.csv and odds/winmasters/europa_league/europa_league_odds_winmasters.json
+2025-05-10 20:09:00,438 - INFO - Processing tournament: Champions League
+2025-05-10 20:09:00,438 - INFO - ====== WebDriver manager ======
+2025-05-10 20:27:17,974 - INFO - Processing tournament: Europa League
+2025-05-10 20:27:17,982 - INFO - ====== WebDriver manager ======
+2025-05-10 20:27:19,782 - INFO - Get LATEST chromedriver version for google-chrome
+2025-05-10 20:27:19,988 - INFO - Get LATEST chromedriver version for google-chrome
+2025-05-10 20:27:20,177 - INFO - Driver [C:\Users\Demos\.wdm\drivers\chromedriver\win64\135.0.7049.114\chromedriver-win32/chromedriver.exe] found in cache
