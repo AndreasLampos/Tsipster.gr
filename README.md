@@ -178,10 +178,11 @@ Error handling ensures the system is robust against network issues and site chan
 
 ## Contributors
 
-- [Your Name]
+- Gkontolias Demosthenis
+- Lampos Andreas
 
 ## License
 
-[Your License]
+🏅 Participated in the Ennovation startup competition 2025.
 
 Copyright © 2025 Tsipster
