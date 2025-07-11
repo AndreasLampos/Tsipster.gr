@@ -1,6 +1,9 @@
 # Tsipster - Web-based Bet Suggestor
 
-Tsipster is a web application that suggests bets based on machine learning and user preferences.
+Tsipster is a web-based application that delivers personalized sports betting suggestions using machine learning models and user-defined preferences.
+It also features an odds aggregator to help users find the best value across multiple bookmakers.
+
+This project was developed as part of a startup proposal for the Ennovation Competition, showcasing both technical innovation and entrepreneurial thinking.
 
 ## Setup Instructions
 
